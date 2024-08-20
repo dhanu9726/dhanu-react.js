@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "react-icons": "^5.2.1"
-=======
-  "name": "my.app",
+  "name": "counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,6 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 75eb81e2b927c03516fdae06bc98b203a8087549
   }
 }
